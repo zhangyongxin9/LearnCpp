@@ -1,0 +1,3 @@
+﻿  Linklist.cpp
+d:\learncpp\linklist\linklist.cpp(39): warning C4018: '<': signed/unsigned mismatch
+  Linklist.vcxproj -> D:\LearnCpp\Debug\Linklist.exe
